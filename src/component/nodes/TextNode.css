@@ -1,0 +1,48 @@
+﻿.text-node {
+  border: 1px solid #ddd;
+  min-width: 210px;
+  max-width: 300px;
+  border-radius: 5px;
+  overflow: hidden;
+  background: #fff;
+  box-shadow: rgba(27, 20, 20, 0.24) 0px 3px 8px;
+}
+
+.node-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #8fecd8;
+  color: white;
+  padding: 5px 10px;
+}
+
+.node-title {
+  flex-grow: 1;
+  margin: 0px 5px;
+  text-align: left;
+  font-weight: 700;
+  font-size: 16px;
+  color: black;
+}
+
+.head-icon {
+  width: 16px;
+  height: 16px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.node-message {
+  padding: 8px 12px;
+}
+
+.head-right-icon {
+  color: #5bbb67;
+  font-size: 15px;
+  border-radius: 50%;
+  background: #fff;
+  margin: auto;
+}

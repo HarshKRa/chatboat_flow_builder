@@ -1,0 +1,25 @@
+﻿.nodes-panel {
+    width: 380px;
+    padding: 20px 15px;
+    border-left: 1.2px solid #ddd;
+    background: #fff;
+  }
+  
+  .nodes {
+    padding: 10px 6px;
+    border: 1.4px solid #505C9E;
+    border-radius: 6px;
+    background: #fff;
+    width: 180px;
+    height: 60px;
+    cursor: grab;
+    margin-bottom: 12px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: #505C9E;
+  }
+
+  
