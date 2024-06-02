@@ -1,4 +1,4 @@
-﻿import React from 'react';
+import React from 'react';
 import './NodesPanel.css';
 import { BiMessageRoundedDetail } from "react-icons/bi";
 
